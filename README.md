@@ -16,7 +16,7 @@
 📍 I'm from **Gorakhpur, India**  
 🎓 Pursuing **B.TECH** at *Galgotias University, Greater Noida*    
 🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
-🎯 Goal: To Become a Skilled **Data Scientist** Solving Real-World Challenges..
+🎯 Goal: To Become a Skilled **Data Scientist** and Focus on Solving Real-World Challenges..
 
 ---
 
