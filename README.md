@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | Java Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Engineer+%7C+Java+%7C+Springboot+%7C+Python+%7C+Javascript;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Engineer+%7C+Java+%7C+Springboot+%7C++%7C+Javascript;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
 ---
