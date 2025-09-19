@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Kushwaha</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Data Explorer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Java Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+DL+%7C+Python+%7C+NLP;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
@@ -37,7 +37,7 @@
   <img width="12" />
 
   <!-- Data Analysis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
@@ -110,7 +110,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   
-  <a href="http://t.me/Data_science_ML_DL" target="_blank">
+  <a href="http://t.me/Software_related" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
@@ -126,18 +126,17 @@
 <details>
   <summary><strong>📂 Click to Expand Projects</strong></summary><br>
 
-### 📊 ML/DL Projects
+### 📊 Frontend Projects
 
-- 🚗 **Car Price Prediction** — Predicting car resale value using regression  
-- 📱 **Smartphone Price Prediction** — Classification model for pricing smartphones  
-- 💻 **Laptop Price Prediction** — Regression model based on specs  
-- 😷 **Face Mask Detection** — Deep learning with CNN & OpenCV  
+-  **Chat Application** — React , Firebase ,Database ,Firebase(Authentication) , Tailwindcss
+-  **Vlc Media Player** — HTML , CSS , JAVASCRIPT  
+-  **Weather Application** — React ,Tailwindcss 
 
-### 📚 Recommendation Engines
 
-- 📚 **Book Recommendation System** — Content-based and collaborative filtering  
-- 🎬 **Movie Recommendation System** — Popularity & collaborative filtering based  
-- 📩 **SMS Spam Classifier** — NLP-based binary classification model  
+### 📚 Backend Development
+
+- 📚 **File Hider(Minor Project)** — Email Authentication via Otp using Java library , store data in db(sql)
+ 
 
 ### 🏆 Sports & Analytics
 
