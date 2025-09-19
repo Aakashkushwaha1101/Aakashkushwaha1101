@@ -120,7 +120,7 @@
 ## 🚀 My Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Explore+My+Projects...;Built+With+Java+%2F+Springboot+%2F+React.js;Scroll+down+to+check+them+out!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Explore+My+Projects...;Built+With+Java+%2F+Springboot+%2F+React.js;Scroll+down+to+check+them!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <details>
