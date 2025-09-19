@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | Java Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+DL+%7C+Python+%7C+NLP;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Engineer+%7C+Java+%7C+Springboot+%7C+Python+%7C+Javascript+ React;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,13 +10,13 @@
 ### 🌍 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aakash+from+Gorakhpur%2C+India.;Pursuing+B.Tech+at+Galgotias+University.;Passionate+about+Data+Science.;Machine+Learning+%26+Deep+Learning." alt="About Me Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aakash+from+Gorakhpur%2C+India.;Pursuing+B.Tech+at+Galgotias+University.;Passionate+about+Software+Engineer.;Java+Javascript+%26+React+Js." alt="About Me Intro" />
 </p>
 
 📍 I'm from **Gorakhpur, India**  
 🎓 Pursuing **B.TECH** at *Galgotias University, Greater Noida*    
-🧠 Passionate about **Data Science, Machine Learning & Deep Learning**  
-🎯 Goal: To Become a Skilled **Data Scientist** and Focus on Solving Real-World Challenges..
+🧠 Passionate about **Software Engineer, Java , Javascript & React**  
+🎯 Goal: To Become a Skilled **Software Developer** and Focus on Solving Real-World Challenges..
 
 ---
 
