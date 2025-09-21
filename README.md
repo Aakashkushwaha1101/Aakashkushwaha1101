@@ -23,33 +23,55 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=450&lines=Java+%F0%9F%90%8D;SQL+%F0%9F%93%9D;Javascript+%E2%9C%94%EF%B8%8F;Mysql+%F0%9F%A7%A0;React+%F0%9F%93%8A;NLP+%F0%9F%93%9A;Intellij+Idea+%F0%9F%93%88;Python+%2F+Tailwind+%2F+MongoDB" alt="Typing SVG" />
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=450&lines=Java;SQL;JavaScript;MySQL;React;NLP;IntelliJ+IDEA;Python;MongoDB;TailwindCSS" alt="Typing SVG" />
 </p>
-<div align="left">
-  <!-- Core Tools -->
+
+<p align="center">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
 
- 
-  
-  
-
-
-  <!-- Storage & SQL -->
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 
-  <!-- Development Tools -->
+  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
 
-  <!-- Cloud/Notebook -->
+  <!-- Google Colab -->
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo" />
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="MySQL logo" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="SQL Server Icon" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-</div>
+  <img width="12" />
+
+  <!-- SQL Server -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="SQL Server logo" />
+  <img width="12" />
+
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</p>
+
 
 ###
 
