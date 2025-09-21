@@ -23,48 +23,17 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=450&lines=Python+%F0%9F%90%8D;SQL+%F0%9F%93%9D;Machine+Learning+%E2%9C%94%EF%B8%8F;Deep+Learning+%F0%9F%A7%A0;Data+Visualization+%F0%9F%93%8A;NLP+%F0%9F%93%9A;Power+BI+%F0%9F%93%88;Pandas+%2F+NumPy+%2F+Seaborn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7941D&center=true&vCenter=true&width=450&lines=Java+%F0%9F%90%8D;SQL+%F0%9F%93%9D;Javascript+%E2%9C%94%EF%B8%8F;Mysql+%F0%9F%A7%A0;React+%F0%9F%93%8A;NLP+%F0%9F%93%9A;Intellij+Idea+%F0%9F%93%88;Python+%2F+Tailwind+%2F+MongoDB" alt="Typing SVG" />
 </p>
 <div align="left">
   <!-- Core Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
-  <img width="12" />
 
-  <!-- Data Analysis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
-  <img width="12" />
+ 
+  
+  
 
-  <!-- Machine Learning / Deep Learning / NLP -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="keras logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" height="40" alt="scipy logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="40" alt="nlp logo" />
-  <img width="12" />
-
-  <!-- Visualization & BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
-  <img width="12" />
 
   <!-- Storage & SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
