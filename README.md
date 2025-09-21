@@ -92,12 +92,14 @@
 ---
 
 ## 🌐 Socials:
+<!-- Profile Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ Aakashkushwaha1101/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Aakashkushwaha1101/count.svg" alt="Profile Counter" />
 </div>
 
 ###
 
+<!-- Social Links -->
 <div align="left">
   <a href="https://www.linkedin.com/in/aakash-kushwaha-4414aa2a3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
