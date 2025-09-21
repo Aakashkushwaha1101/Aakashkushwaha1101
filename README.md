@@ -75,9 +75,11 @@
 
   <!-- CSS3 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
-  <img width="12" />
+  
+ <!-- Tailwind CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" />
+<img width="12" />
+
 
   <!-- Google Colab -->
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="colab logo" />
