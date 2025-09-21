@@ -92,10 +92,12 @@
 ---
 
 ## 🌐 Socials:
+
 <!-- Profile Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Aakashkushwaha1101/count.svg" alt="Profile Counter" />
+  <img src="https://profile-counter.glitch.me/Aakashkushwaha1101/count.svg" alt="profile views counter" />
 </div>
+
 
 ###
 
